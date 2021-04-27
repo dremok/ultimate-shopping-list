@@ -1,4 +1,4 @@
-# ultimate_shopping_list
+# Ultimate Shopping List
 
 A new Flutter project.
 
